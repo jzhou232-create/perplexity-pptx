@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pptx",
+  "version": "1.0.0",
+  "description": "Create, edit, render, and validate PowerPoint presentations.",
+  "author": {
+    "name": "Jingxiang Zhou"
+  },
+  "repository": "https://github.com/jzhou232-create/perplexity-pptx",
+  "keywords": [
+    "pptx",
+    "powerpoint",
+    "presentation",
+    "slides"
+  ]
+}
